@@ -130,6 +130,9 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
 - Wed, Oct 8 
   - In-class review
   - [Review: pros and cons of different rootfinding/fixed-pt/optimization methods](Notes/Ch10_review_ProsCons.pdf)
+    - See the [2025 Midterm 1 template](Exams/APPM4600_Fall25_Midterm1.layout.pdf) for what the midterm will look like
+    - Didn't have time to cover [2025 review of Ch 1 and scientific computing](Notes/Review_2025_Midterm1.pdf)
+    - Study material from years past is at [Exams/StudyMaterials](Exams/StudyMaterials), with some solutions on Canvas
   - Evening **midterm exam**, 6 to 7:30 PM, ECCS 1B12
 - Thu, Oct 9 (no lab, reading day)
 - Fri, Oct 10 
