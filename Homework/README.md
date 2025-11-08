@@ -12,6 +12,7 @@ Most of the homework assignments are here, but homework **solutions** are on Can
 - [HW7](APPM4600_Fall25_HW07.pdf) due Fri Oct 17 at midnight on Gradescope. Topics: optimization and least-squares, Gauss-Newton, steepest descent, interpolation, curve-fitting
 - [HW8](APPM4600_Fall25_HW08.pdf) due Fri Oct 24 at midnight on Gradescope. Topics: interpolation and spline error bounds
 - [HW9](APPM4600_Fall25_HW09.pdf) due Sat Nov 1 at midnight on Gradescope. Topics: approximation and orthogonal polynomials
+- [HW10](APPM4600_Fall25_HW10.pdf) due Fri Nov 14 at midnight on Gradescope. Topics: Fourier/trig and non-composite quadrature
 
 ## FAQ
 What should HW submissions look like?  If it involves code and/or plots, see our [submission_guidelines](submission_guidelines.md)
