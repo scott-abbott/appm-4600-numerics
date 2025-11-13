@@ -209,14 +209,14 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
   - Demo: [Ch4_integration.ipynb](Demos/Ch4_integration.ipynb)
     - Looked at [Tai's method](https://en.wikipedia.org/wiki/Tai%27s_model) which reinvented the trapezoidal rule
 
-#### Week 13, Chapter 6 (direct methods for linear algebra)
+#### Week 13, Chapter 6 (finish integration, start direct methods for linear algebra)
 - Mon, Nov 10
   - [Composite quadrature](Notes/Ch4_quadrature_composite.pdf) from ch 4.4
-    - Demo: [Ch4_CompositeIntegration.ipynb](Demos/Ch4_CompositeIntegration.ipynb)
   - [Adaptive integration](Notes/Ch4_AdaptiveIntegration.pdf) from ch 4.6
-    -  Demo: [Ch4_AdaptiveIntegration.ipynb](Demos/Ch4_AdaptiveIntegration.ipynb)
-  - [Gaussian quadrature](Notes/Ch4_GaussianQuadrature.pdf) from ch 4.7 and also from the Driscoll and Braun supplementary text
-    - Demo: [Ch4_GaussianQuadrature.ipynb](Demos/Ch4_GaussianQuadrature.ipynb)
+- Wed, Nov 12 
+  - Demo: [Ch4_CompositeIntegration.ipynb](Demos/Ch4_CompositeIntegration.ipynb)
+  - Demo: [Ch4_AdaptiveIntegration.ipynb](Demos/Ch4_AdaptiveIntegration.ipynb)
+  - Briefly start [Gaussian quadrature](Notes/Ch4_GaussianQuadrature.pdf) from ch 4.7 and also from the Driscoll and Braun supplementary text (saving the demo for Friday)
   - Further resources on Gaussian quadrature:
     - a 4 part youtube video series:
           1. [Preview](https://www.youtube.com/watch?v=k-yUdqRXijo)
@@ -225,18 +225,21 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
           4. [Part 3: Explanation](https://www.youtube.com/watch?v=cKKrGr93f6c)
     - Lloyd Trefethen, "[Is Gauss Quadrature Better than Clenshaw–Curtis?](https://epubs.siam.org/doi/10.1137/060659831)", SIAM Review 50(1), pp. 67–87 (2008)
     - Topics in our class: Gauss-Legendre, Gauss-Laguerre, Gauss-Hermite; *skip* Chebyshev-Gauss. Note that we are *not* covering Clenshaw-Curtis
-  - Time-permitting, we may cover 
-    - [Multiple Integrals](Notes/Ch4_MultipleIntegrals.pdf), from ch 4.8, with demo [Ch4_MultidimensionalIntegrals.ipynb](Demos/Ch4_MultidimensionalIntegrals.ipynb)
-    - and/or [Improper Integrals](Notes/Ch4_ImproperIntegrals.pdf) from ch 4.9, with demo [Ch4_ImproperIntegrals.ipynb](Demos/Ch4_ImproperIntegrals.ipynb)
-- Wed, Nov 12 
-  - [Complexity of Matrix Multiplication](Notes/Ch6_ComplexityMatrixMultiplication.pdf) and [Systems of Linear Equations and Gaussian Elimination](Notes/Ch6_SystemsOfEquations_GaussianElimination.pdf); we discuss some BLAS
-  - Demo: [Ch6_MatrixMultiplication.ipynb](Demos/Ch6_MatrixMultiplication.ipynb), talk about BLAS and LAPACK
-  - In chapter 6, we're roughly covering the material from the book, but adding more (conditioning, more details on LAPACK/BLAS), and doing it in a different order; we're also moving fast, since APPM 3310 "Matrix Methods" is a prereq for this class and these topics were covered in that class
-- Thu, Nov 13, Lab 12
-  - TBD, perhaps simple quadrature (using numpy's builtin tools), compared to symbolic (sympy/mathematica), compared to [chebfun](https://www.chebfun.org/) which has the aim to "feel symbolic but run at the speed of numerics"
-  - TBD, maybe on adaptive integration
+  - We didn't have time to cover the following interesting topics (though we'll explore multiple dimensions in the lab)
+    - ~~[Multiple Integrals](Notes/Ch4_MultipleIntegrals.pdf), from ch 4.8, with demo [Ch4_MultidimensionalIntegrals.ipynb](Demos/Ch4_MultidimensionalIntegrals.ipynb)~~
+    - ~~[Improper Integrals](Notes/Ch4_ImproperIntegrals.pdf) from ch 4.9, with demo [Ch4_ImproperIntegrals.ipynb](Demos/Ch4_ImproperIntegrals.ipynb)~~
+- Thu, Nov 13, Lab 11
+  - [Lab 11: multidimensional integration and Monte Carlo](Labs/Lab11_Multidimensional_integration.ipynb)
+  - some day we'll do a lab involving [chebfun](https://www.chebfun.org/) (which has to main Python offshoots)
 - Fri, Nov 14 
   - Debrief from lab
+  - Finish Gaussian quadrature
+    - Demo: [Ch4_GaussianQuadrature.ipynb](Demos/Ch4_GaussianQuadrature.ipynb)
+  - Start our last two units on **linear algebra** (ch 6 and ch 9)
+    - In chapter 6, we're roughly covering the material from the book, but adding more (conditioning, more details on LAPACK/BLAS), and doing it in a different order; we're also moving fast, since APPM 3310 "Matrix Methods" is a prereq for this class and these topics were covered in that class
+    - We have a basic [Ch6_LinearAlgebraIntro](Notes/Ch6_LinearAlgebraIntro.pdf) note which is a review of some concepts covered in matrix methods. We won't explicitly cover this in class, but please review on your own if you feel rusty on matrix methods.
+  - [Complexity of Matrix Multiplication](Notes/Ch6_ComplexityMatrixMultiplication.pdf) and [Systems of Linear Equations and Gaussian Elimination](Notes/Ch6_SystemsOfEquations_GaussianElimination.pdf); we discuss some BLAS
+    - Demo: [Ch6_MatrixMultiplication.ipynb](Demos/Ch6_MatrixMultiplication.ipynb), talk about BLAS and LAPACK
   - [LU factorization](Notes/Ch6_LUfactorization.pdf)
 #### Week 14, Chapter 9 (Eigenvalues)
 - Mon, Nov 17 
