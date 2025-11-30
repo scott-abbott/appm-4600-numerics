@@ -14,6 +14,7 @@ Most of the homework assignments are here, but homework **solutions** are on Can
 - [HW9](APPM4600_Fall25_HW09.pdf) due Sat Nov 1 at midnight on Gradescope. Topics: approximation and orthogonal polynomials
 - [HW10](APPM4600_Fall25_HW10.pdf) due Fri Nov 14 at midnight on Gradescope. Topics: Fourier/trig and non-composite quadrature
 - [HW11](APPM4600_Fall25_HW11.pdf) due Fri Nov 21 at midnight on Gradescope. Topics: Gauss-Laguerre quadrature and linear algebra (using LU and QR)
+- [HW12](APPM4600_Fall25_HW12.pdf) due Fri Dec 5 at midnight on Gradescope. Topics: Eigenvalues
 
 ## FAQ
 What should HW submissions look like?  If it involves code and/or plots, see our [submission_guidelines](submission_guidelines.md)
