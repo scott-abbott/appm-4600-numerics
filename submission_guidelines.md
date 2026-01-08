@@ -24,7 +24,7 @@ submission formats.
 not permissible to search for answers to exact problems or to post requests for help on forums such as [math.stackexchange.com](http://math.stackexchange.com/)
 or to look at solution manuals.
 
-See also our [AI policy](..//policies.md#ai-policy)
+See also our [AI policy](./policies.md)
 
 #### Merging multiple PDF files
 

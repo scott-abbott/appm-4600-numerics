@@ -59,17 +59,19 @@ supplement.  For example,
 Other good ideas are at the [CSCI-3656 class](https://github.com/cu-numcomp/numcomp-class/blob/master/Syllabus.md#Resources); in particlar, Eijkhout (2017), Introduction to High-Performance Scientific Computing is much more high-performance implementation oriented.
 
 ## Syllabus
-See the separate [syllabus document](syllabus.md) and the detailed [day-by-day schedule](schedule.md)
+See the separate [syllabus document](syllabus.md), the [high level schedule](./APPM%204600%20Spring%202026%20schedule.pdf), and the detailed [day-by-day schedule](schedule.md)
 
 ## Recitations/Labs
 Tuesdays, led by the TA.
 
 For each lab, you must attend in person (we take attendance), and then
 turn in the required documents to Canvas by 11:59 PM on the day of the
-lab. This counts for 15% of your grade.  Scoring per lab is done on a
-pass/fail basis.  We will automatically give all students one "free"
-lab that you do not need to turn in -- you do not need to tell us
-which lab, we automatically remove one of your lowest scores.
+lab (see the [submission
+guidelines](./submission_guidelines.md)). This counts for 15% of your
+grade.  Scoring per lab is done on a pass/fail basis.  We will
+automatically give all students one "free" lab that you do not need to
+turn in -- you do not need to tell us which lab, we automatically
+remove one of your lowest scores.
 
 ## Exams
 - There will be **two midterms** on 2/23/26 and 3/30/26, time (on or
@@ -83,7 +85,9 @@ final project instead of a final exam.
 
 ## Homeworks
 
-There will be weekly homeworks.  You are allowed to drop 1 homework, which will be done automatically.
+There will be weekly homeworks.  You are allowed to drop 1 homework,
+which will be done automatically.  Homework will be submitted via
+Gradescope.  See the [submission guidelines](submission_guidelines.md).
 
 ## Grading
 
