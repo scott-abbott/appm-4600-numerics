@@ -21,7 +21,6 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
 - Fri, Jan 9
   - Refs: ch 1.1, 1.2, and other sources.
   - Calc Review and Floating Point Numbers. 
-  - Refs: ch 1.1 and 1.2 and other sources. 
   - Mixed precision computing is being used to speed up computations,
     e.g., on GPUs.  See [Carson, Mary, "Mixed-precision Computing:
     High Accuracy with Low Precision", SIAM News, v 58, Nov 2025](https://www.siam.org/publications/siam-news/articles/mixed-precision-computing-high-accuracy-with-low-precision/).
@@ -30,9 +29,9 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
 
 - Mon, Jan 12
   - Finish Floating Point Numbers
-  - Conditioning and start Stability
-  - Refs: mostly from Driscoll and Braun, some ch 1.3. 
-  - Demos: <!-- [Ch1_SymbolicTaylorSeries](Demos/Ch1_SymbolicTaylorSeries.ipynb), [Ch1_DataTypes](Demos/Ch1_DataTypes.ipynb), [Ch1_ExponentialSummation](Demos/Ch1_ExponentialSummation.ipynb) -->
+  - Conditioning
+  - Refs: mostly from Driscoll and Braun, some ch 1.2. 
+  <!-- - Demos: [Ch1_SymbolicTaylorSeries](Demos/Ch1_SymbolicTaylorSeries.ipynb), [Ch1_DataTypes](Demos/Ch1_DataTypes.ipynb), [Ch1_ExponentialSummation](Demos/Ch1_ExponentialSummation.ipynb) -->
 - Tue, Jan 13
   - Lab 1
   - Setup Python locally and on cloud
